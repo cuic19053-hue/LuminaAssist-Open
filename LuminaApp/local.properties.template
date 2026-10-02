@@ -1,0 +1,14 @@
+# ============================================
+# LuminaApp 本地配置模板（cp 为 local.properties 后修改）
+# ============================================
+# Windows 示例：
+# sdk.dir=C:/Users/你的用户名/AppData/Local/Huawei/DevEco Studio/sdk
+#
+# macOS 示例：
+# sdk.dir=/Users/你的用户名/Library/Huawei/DevEco Studio/sdk
+#
+# 不知道 SDK 装在哪？打开 DevEco Studio → File → Settings → OpenHarmony SDK Location
+# 复制显示的路径，填到 sdk.dir= 后面。
+# ============================================
+
+sdk.dir=PLEASE_REPLACE_WITH_YOUR_LOCAL_SDK_PATH

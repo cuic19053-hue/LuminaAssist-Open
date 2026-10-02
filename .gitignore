@@ -1,0 +1,66 @@
+# ============================================
+# Git Ignore for LuminaAssist
+# ============================================
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+local.properties
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+lumina_assist.db
+chroma_data/
+
+# HarmonyOS / DevEco Studio
+.idea/
+.hvigor/
+.hvigor-cache/
+.local/
+build/
+oh_modules/
+entry/build/
+entry/.cxx/
+entry/.test/
+*/build/
+*/oh_modules/
+*/.cxx/
+*/.test/
+*/.obfuscation/
+node_modules/
+dist/
+
+# Signing & Certificates
+*.p12
+*.p7b
+*.cer
+*.der
+*.pem
+*.key
+*.keystore
+keys/
+.sign/
+LuminaApp/keys/
+LuminaApp/.sign/
+
+# Binaries & Media Archives
+*.hap
+*.zip
+*.tar
+*.gz
+*.mp4
+*.srt
+archives/
+installers/
+presentation/
+.workbuddy/
+
+# System
+.DS_Store
+Thumbs.db

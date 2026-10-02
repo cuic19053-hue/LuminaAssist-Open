@@ -1,0 +1,51 @@
+{
+  "app": {
+    // 签名配置说明：
+    // 1. Debug 调试：勾选 DevEco Studio "Automatically generate signature" 即可自动生成调试签名。
+    // 2. Release 上架正式打包：
+    //    在 DevEco Studio 中执行 Build > Generate Key and CSR 生成 release.p12 与 release.csr，
+    //    并在华为 AppGallery Connect (AGC) 上传 CSR 申请 release.cer 与 release.p7b。
+    //    将材料放入 keys/ 或由 Project Structure > Signing Configs > release 导入。
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "compileSdkVersion": "26.0.0",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "targetSdkVersion": "26.0.0",
+                "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": false
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+

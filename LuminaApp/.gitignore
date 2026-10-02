@@ -1,0 +1,41 @@
+# ============================================
+# LuminaApp 子模块 Git 忽略规则
+# ============================================
+
+# 构建产物
+build/
+oh_modules/
+.oh_modules/
+.cxx/
+.test/
+.obfuscation/
+.hvigor-cache/
+
+# IDE & DevEco
+.idea/
+.vscode/
+.hvigor/
+.local/
+
+# 签名与密钥（必须本地持有，禁止入库）
+keys/
+.hap-sign-tmp/
+.codegenie/
+*.p12
+*.p7b
+*.cer
+*.der
+*.pem
+*.key
+*.keystore
+signing-config/
+
+# 端侧模型权重（体积大，通过 scripts/dl_model.ps1 单独下载）
+entry/src/main/resources/rawfile/models/*.ms
+entry/src/main/resources/rawfile/models/*.onnx
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+*.swp

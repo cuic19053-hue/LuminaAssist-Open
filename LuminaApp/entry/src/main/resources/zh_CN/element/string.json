@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "光语助手主入口模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "光语助手主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "光语助手"
+    }
+  ]
+}

@@ -1,0 +1,4002 @@
+[
+  {
+    "zh": "背景",
+    "en": "tench"
+  },
+  {
+    "zh": "金毛犬",
+    "en": "goldfish"
+  },
+  {
+    "zh": "大白鲨",
+    "en": "great_white_shark"
+  },
+  {
+    "zh": "虎鲨",
+    "en": "tiger_shark"
+  },
+  {
+    "zh": "锤头鲨",
+    "en": "hammerhead"
+  },
+  {
+    "zh": "电鳐",
+    "en": "electric_ray"
+  },
+  {
+    "zh": "黄鱼",
+    "en": "stingray"
+  },
+  {
+    "zh": "公鸡",
+    "en": "cock"
+  },
+  {
+    "zh": "母鸡",
+    "en": "hen"
+  },
+  {
+    "zh": "鹈鹕",
+    "en": "ostrich"
+  },
+  {
+    "zh": "白鹳",
+    "en": "brambling"
+  },
+  {
+    "zh": "火烈鸟",
+    "en": "goldfinch"
+  },
+  {
+    "zh": "蓝鸟",
+    "en": "house_finch"
+  },
+  {
+    "zh": "椋鸟",
+    "en": "junco"
+  },
+  {
+    "zh": "霸王龙",
+    "en": "indigo_bunting"
+  },
+  {
+    "zh": "鹌鹑",
+    "en": "robin"
+  },
+  {
+    "zh": "啄木鸟",
+    "en": "bulbul"
+  },
+  {
+    "zh": "海鸥",
+    "en": "jay"
+  },
+  {
+    "zh": "小啄木鸟",
+    "en": "magpie"
+  },
+  {
+    "zh": "松鸡",
+    "en": "chickadee"
+  },
+  {
+    "zh": "黑鸟",
+    "en": "water_ouzel"
+  },
+  {
+    "zh": "麻雀",
+    "en": "kite"
+  },
+  {
+    "zh": "知更鸟",
+    "en": "bald_eagle"
+  },
+  {
+    "zh": "鹬",
+    "en": "vulture"
+  },
+  {
+    "zh": "达尔马提亚犬",
+    "en": "great_grey_owl"
+  },
+  {
+    "zh": "老鹰",
+    "en": "European_fire_salamander"
+  },
+  {
+    "zh": "秃鹰",
+    "en": "common_newt"
+  },
+  {
+    "zh": "雕",
+    "en": "eft"
+  },
+  {
+    "zh": "猫头鹰",
+    "en": "spotted_salamander"
+  },
+  {
+    "zh": "海鸥",
+    "en": "axolotl"
+  },
+  {
+    "zh": "鸬鹚",
+    "en": "bullfrog"
+  },
+  {
+    "zh": "鹅",
+    "en": "tree_frog"
+  },
+  {
+    "zh": "孔雀",
+    "en": "tailed_frog"
+  },
+  {
+    "zh": "鹈鹕",
+    "en": "loggerhead"
+  },
+  {
+    "zh": "白鹭",
+    "en": "leatherback_turtle"
+  },
+  {
+    "zh": "鹤",
+    "en": "mud_turtle"
+  },
+  {
+    "zh": "白鹤",
+    "en": "terrapin"
+  },
+  {
+    "zh": "黑鹳",
+    "en": "box_turtle"
+  },
+  {
+    "zh": "鹳",
+    "en": "banded_gecko"
+  },
+  {
+    "zh": "蜂鸟",
+    "en": "common_iguana"
+  },
+  {
+    "zh": "啄木鸟",
+    "en": "American_chameleon"
+  },
+  {
+    "zh": "鹬",
+    "en": "whiptail"
+  },
+  {
+    "zh": "鹰",
+    "en": "agama"
+  },
+  {
+    "zh": "鹦鹉",
+    "en": "frilled_lizard"
+  },
+  {
+    "zh": "知更鸟",
+    "en": "alligator_lizard"
+  },
+  {
+    "zh": "鹬",
+    "en": "Gila_monster"
+  },
+  {
+    "zh": "锦蛇",
+    "en": "green_lizard"
+  },
+  {
+    "zh": "蜥蜴",
+    "en": "African_chameleon"
+  },
+  {
+    "zh": "变色龙",
+    "en": "Komodo_dragon"
+  },
+  {
+    "zh": "鳄鱼",
+    "en": "African_crocodile"
+  },
+  {
+    "zh": "鳗鱼",
+    "en": "American_alligator"
+  },
+  {
+    "zh": "短吻鳄",
+    "en": "triceratops"
+  },
+  {
+    "zh": "恐龙",
+    "en": "thunder_snake"
+  },
+  {
+    "zh": "蜥蜴",
+    "en": "ringneck_snake"
+  },
+  {
+    "zh": "鬣蜥",
+    "en": "hognose_snake"
+  },
+  {
+    "zh": "壁虎",
+    "en": "green_snake"
+  },
+  {
+    "zh": "海龟",
+    "en": "king_snake"
+  },
+  {
+    "zh": "鳄龟",
+    "en": "garter_snake"
+  },
+  {
+    "zh": "龟",
+    "en": "water_snake"
+  },
+  {
+    "zh": "甲鱼",
+    "en": "vine_snake"
+  },
+  {
+    "zh": "螃蟹",
+    "en": "night_snake"
+  },
+  {
+    "zh": "企鹅",
+    "en": "boa_constrictor"
+  },
+  {
+    "zh": "海星",
+    "en": "rock_python"
+  },
+  {
+    "zh": "海葵",
+    "en": "Indian_cobra"
+  },
+  {
+    "zh": "海葵",
+    "en": "green_mamba"
+  },
+  {
+    "zh": "蜗牛",
+    "en": "sea_snake"
+  },
+  {
+    "zh": "蜗牛",
+    "en": "horned_viper"
+  },
+  {
+    "zh": "蛞蝓",
+    "en": "diamondback"
+  },
+  {
+    "zh": "海星",
+    "en": "sidewinder"
+  },
+  {
+    "zh": "海胆",
+    "en": "trilobite"
+  },
+  {
+    "zh": "贝壳",
+    "en": "harvestman"
+  },
+  {
+    "zh": "黑猫",
+    "en": "scorpion"
+  },
+  {
+    "zh": "胡萝卜",
+    "en": "black_and_gold_garden_spider"
+  },
+  {
+    "zh": "蛇",
+    "en": "barn_spider"
+  },
+  {
+    "zh": "蜘蛛",
+    "en": "garden_spider"
+  },
+  {
+    "zh": "蜈蚣",
+    "en": "black_widow"
+  },
+  {
+    "zh": "奶牛",
+    "en": "tarantula"
+  },
+  {
+    "zh": "小牛",
+    "en": "wolf_spider"
+  },
+  {
+    "zh": "黄牛",
+    "en": "tick"
+  },
+  {
+    "zh": "水牛",
+    "en": "centipede"
+  },
+  {
+    "zh": "绵羊",
+    "en": "black_grouse"
+  },
+  {
+    "zh": "山羊",
+    "en": "ptarmigan"
+  },
+  {
+    "zh": "羚羊",
+    "en": "ruffed_grouse"
+  },
+  {
+    "zh": "羚羊",
+    "en": "prairie_chicken"
+  },
+  {
+    "zh": "羚羊",
+    "en": "peacock"
+  },
+  {
+    "zh": "羚羊",
+    "en": "quail"
+  },
+  {
+    "zh": "狐狸",
+    "en": "partridge"
+  },
+  {
+    "zh": "狐狸",
+    "en": "African_grey"
+  },
+  {
+    "zh": "熊",
+    "en": "macaw"
+  },
+  {
+    "zh": "熊",
+    "en": "sulphur-crested_cockatoo"
+  },
+  {
+    "zh": "考拉",
+    "en": "lorikeet"
+  },
+  {
+    "zh": "树懒",
+    "en": "coucal"
+  },
+  {
+    "zh": "蜘蛛猴",
+    "en": "bee_eater"
+  },
+  {
+    "zh": "狐猴",
+    "en": "hornbill"
+  },
+  {
+    "zh": "大象",
+    "en": "hummingbird"
+  },
+  {
+    "zh": "海象",
+    "en": "jacamar"
+  },
+  {
+    "zh": "豹子",
+    "en": "toucan"
+  },
+  {
+    "zh": "猎豹",
+    "en": "drake"
+  },
+  {
+    "zh": "雪豹",
+    "en": "red-breasted_merganser"
+  },
+  {
+    "zh": "狮子",
+    "en": "goose"
+  },
+  {
+    "zh": "老虎",
+    "en": "black_swan"
+  },
+  {
+    "zh": "猎豹",
+    "en": "tusker"
+  },
+  {
+    "zh": "美洲狮",
+    "en": "echidna"
+  },
+  {
+    "zh": "黑豹",
+    "en": "platypus"
+  },
+  {
+    "zh": "熊猫",
+    "en": "wallaby"
+  },
+  {
+    "zh": "浣熊",
+    "en": "koala"
+  },
+  {
+    "zh": "水獭",
+    "en": "wombat"
+  },
+  {
+    "zh": "袋鼠",
+    "en": "jellyfish"
+  },
+  {
+    "zh": "猴子",
+    "en": "sea_anemone"
+  },
+  {
+    "zh": "猩猩",
+    "en": "brain_coral"
+  },
+  {
+    "zh": "狒狒",
+    "en": "flatworm"
+  },
+  {
+    "zh": "长臂猿",
+    "en": "nematode"
+  },
+  {
+    "zh": "黑猩猩",
+    "en": "conch"
+  },
+  {
+    "zh": "大猩猩",
+    "en": "snail"
+  },
+  {
+    "zh": "卷尾猴",
+    "en": "slug"
+  },
+  {
+    "zh": "蜘蛛猴",
+    "en": "sea_slug"
+  },
+  {
+    "zh": "狐猴",
+    "en": "chiton"
+  },
+  {
+    "zh": "猴",
+    "en": "chambered_nautilus"
+  },
+  {
+    "zh": "猴",
+    "en": "Dungeness_crab"
+  },
+  {
+    "zh": "猴",
+    "en": "rock_crab"
+  },
+  {
+    "zh": "猴",
+    "en": "fiddler_crab"
+  },
+  {
+    "zh": "狗",
+    "en": "king_crab"
+  },
+  {
+    "zh": "狗",
+    "en": "American_lobster"
+  },
+  {
+    "zh": "狗",
+    "en": "spiny_lobster"
+  },
+  {
+    "zh": "狗",
+    "en": "crayfish"
+  },
+  {
+    "zh": "狗",
+    "en": "hermit_crab"
+  },
+  {
+    "zh": "狗",
+    "en": "isopod"
+  },
+  {
+    "zh": "狗",
+    "en": "white_stork"
+  },
+  {
+    "zh": "狗",
+    "en": "black_stork"
+  },
+  {
+    "zh": "狗",
+    "en": "spoonbill"
+  },
+  {
+    "zh": "狗",
+    "en": "flamingo"
+  },
+  {
+    "zh": "狗",
+    "en": "little_blue_heron"
+  },
+  {
+    "zh": "狗",
+    "en": "American_egret"
+  },
+  {
+    "zh": "狗",
+    "en": "bittern"
+  },
+  {
+    "zh": "狗",
+    "en": "crane"
+  },
+  {
+    "zh": "狗",
+    "en": "limpkin"
+  },
+  {
+    "zh": "狗",
+    "en": "European_gallinule"
+  },
+  {
+    "zh": "狗",
+    "en": "American_coot"
+  },
+  {
+    "zh": "狗",
+    "en": "bustard"
+  },
+  {
+    "zh": "狗",
+    "en": "ruddy_turnstone"
+  },
+  {
+    "zh": "狗",
+    "en": "red-backed_sandpiper"
+  },
+  {
+    "zh": "狗",
+    "en": "redshank"
+  },
+  {
+    "zh": "狗",
+    "en": "dowitcher"
+  },
+  {
+    "zh": "狗",
+    "en": "oystercatcher"
+  },
+  {
+    "zh": "狗",
+    "en": "pelican"
+  },
+  {
+    "zh": "猪",
+    "en": "king_penguin"
+  },
+  {
+    "zh": "猪",
+    "en": "albatross"
+  },
+  {
+    "zh": "猪",
+    "en": "grey_whale"
+  },
+  {
+    "zh": "猪",
+    "en": "killer_whale"
+  },
+  {
+    "zh": "猪",
+    "en": "dugong"
+  },
+  {
+    "zh": "猫",
+    "en": "sea_lion"
+  },
+  {
+    "zh": "猫",
+    "en": "Chihuahua"
+  },
+  {
+    "zh": "猫",
+    "en": "Japanese_spaniel"
+  },
+  {
+    "zh": "猫",
+    "en": "Maltese_dog"
+  },
+  {
+    "zh": "猫",
+    "en": "Pekinese"
+  },
+  {
+    "zh": "猫",
+    "en": "Shih-Tzu"
+  },
+  {
+    "zh": "猫",
+    "en": "Blenheim_spaniel"
+  },
+  {
+    "zh": "猫",
+    "en": "papillon"
+  },
+  {
+    "zh": "猫",
+    "en": "toy_terrier"
+  },
+  {
+    "zh": "猫",
+    "en": "Rhodesian_ridgeback"
+  },
+  {
+    "zh": "Afghan_hound",
+    "en": "Afghan_hound"
+  },
+  {
+    "zh": "basset",
+    "en": "basset"
+  },
+  {
+    "zh": "beagle",
+    "en": "beagle"
+  },
+  {
+    "zh": "bloodhound",
+    "en": "bloodhound"
+  },
+  {
+    "zh": "bluetick",
+    "en": "bluetick"
+  },
+  {
+    "zh": "black-and-tan_coonhound",
+    "en": "black-and-tan_coonhound"
+  },
+  {
+    "zh": "Walker_hound",
+    "en": "Walker_hound"
+  },
+  {
+    "zh": "English_foxhound",
+    "en": "English_foxhound"
+  },
+  {
+    "zh": "redbone",
+    "en": "redbone"
+  },
+  {
+    "zh": "borzoi",
+    "en": "borzoi"
+  },
+  {
+    "zh": "Irish_wolfhound",
+    "en": "Irish_wolfhound"
+  },
+  {
+    "zh": "Italian_greyhound",
+    "en": "Italian_greyhound"
+  },
+  {
+    "zh": "whippet",
+    "en": "whippet"
+  },
+  {
+    "zh": "Ibizan_hound",
+    "en": "Ibizan_hound"
+  },
+  {
+    "zh": "Norwegian_elkhound",
+    "en": "Norwegian_elkhound"
+  },
+  {
+    "zh": "otterhound",
+    "en": "otterhound"
+  },
+  {
+    "zh": "Saluki",
+    "en": "Saluki"
+  },
+  {
+    "zh": "Scottish_deerhound",
+    "en": "Scottish_deerhound"
+  },
+  {
+    "zh": "Weimaraner",
+    "en": "Weimaraner"
+  },
+  {
+    "zh": "Staffordshire_bullterrier",
+    "en": "Staffordshire_bullterrier"
+  },
+  {
+    "zh": "American_Staffordshire_terrier",
+    "en": "American_Staffordshire_terrier"
+  },
+  {
+    "zh": "Bedlington_terrier",
+    "en": "Bedlington_terrier"
+  },
+  {
+    "zh": "Border_terrier",
+    "en": "Border_terrier"
+  },
+  {
+    "zh": "Kerry_blue_terrier",
+    "en": "Kerry_blue_terrier"
+  },
+  {
+    "zh": "Irish_terrier",
+    "en": "Irish_terrier"
+  },
+  {
+    "zh": "Norfolk_terrier",
+    "en": "Norfolk_terrier"
+  },
+  {
+    "zh": "Norwich_terrier",
+    "en": "Norwich_terrier"
+  },
+  {
+    "zh": "Yorkshire_terrier",
+    "en": "Yorkshire_terrier"
+  },
+  {
+    "zh": "wire-haired_fox_terrier",
+    "en": "wire-haired_fox_terrier"
+  },
+  {
+    "zh": "Lakeland_terrier",
+    "en": "Lakeland_terrier"
+  },
+  {
+    "zh": "Sealyham_terrier",
+    "en": "Sealyham_terrier"
+  },
+  {
+    "zh": "Airedale",
+    "en": "Airedale"
+  },
+  {
+    "zh": "cairn",
+    "en": "cairn"
+  },
+  {
+    "zh": "Australian_terrier",
+    "en": "Australian_terrier"
+  },
+  {
+    "zh": "Dandie_Dinmont",
+    "en": "Dandie_Dinmont"
+  },
+  {
+    "zh": "Boston_bull",
+    "en": "Boston_bull"
+  },
+  {
+    "zh": "miniature_schnauzer",
+    "en": "miniature_schnauzer"
+  },
+  {
+    "zh": "giant_schnauzer",
+    "en": "giant_schnauzer"
+  },
+  {
+    "zh": "standard_schnauzer",
+    "en": "standard_schnauzer"
+  },
+  {
+    "zh": "Scotch_terrier",
+    "en": "Scotch_terrier"
+  },
+  {
+    "zh": "Tibetan_terrier",
+    "en": "Tibetan_terrier"
+  },
+  {
+    "zh": "silky_terrier",
+    "en": "silky_terrier"
+  },
+  {
+    "zh": "soft-coated_wheaten_terrier",
+    "en": "soft-coated_wheaten_terrier"
+  },
+  {
+    "zh": "West_Highland_white_terrier",
+    "en": "West_Highland_white_terrier"
+  },
+  {
+    "zh": "Lhasa",
+    "en": "Lhasa"
+  },
+  {
+    "zh": "flat-coated_retriever",
+    "en": "flat-coated_retriever"
+  },
+  {
+    "zh": "curly-coated_retriever",
+    "en": "curly-coated_retriever"
+  },
+  {
+    "zh": "golden_retriever",
+    "en": "golden_retriever"
+  },
+  {
+    "zh": "Labrador_retriever",
+    "en": "Labrador_retriever"
+  },
+  {
+    "zh": "Chesapeake_Bay_retriever",
+    "en": "Chesapeake_Bay_retriever"
+  },
+  {
+    "zh": "German_short-haired_pointer",
+    "en": "German_short-haired_pointer"
+  },
+  {
+    "zh": "vizsla",
+    "en": "vizsla"
+  },
+  {
+    "zh": "English_setter",
+    "en": "English_setter"
+  },
+  {
+    "zh": "Irish_setter",
+    "en": "Irish_setter"
+  },
+  {
+    "zh": "Gordon_setter",
+    "en": "Gordon_setter"
+  },
+  {
+    "zh": "Brittany_spaniel",
+    "en": "Brittany_spaniel"
+  },
+  {
+    "zh": "clumber",
+    "en": "clumber"
+  },
+  {
+    "zh": "English_springer",
+    "en": "English_springer"
+  },
+  {
+    "zh": "Welsh_springer_spaniel",
+    "en": "Welsh_springer_spaniel"
+  },
+  {
+    "zh": "cocker_spaniel",
+    "en": "cocker_spaniel"
+  },
+  {
+    "zh": "Sussex_spaniel",
+    "en": "Sussex_spaniel"
+  },
+  {
+    "zh": "Irish_water_spaniel",
+    "en": "Irish_water_spaniel"
+  },
+  {
+    "zh": "kuvasz",
+    "en": "kuvasz"
+  },
+  {
+    "zh": "schipperke",
+    "en": "schipperke"
+  },
+  {
+    "zh": "groenendael",
+    "en": "groenendael"
+  },
+  {
+    "zh": "malinois",
+    "en": "malinois"
+  },
+  {
+    "zh": "briard",
+    "en": "briard"
+  },
+  {
+    "zh": "kelpie",
+    "en": "kelpie"
+  },
+  {
+    "zh": "komondor",
+    "en": "komondor"
+  },
+  {
+    "zh": "Old_English_sheepdog",
+    "en": "Old_English_sheepdog"
+  },
+  {
+    "zh": "狼",
+    "en": "Shetland_sheepdog"
+  },
+  {
+    "zh": "狼",
+    "en": "collie"
+  },
+  {
+    "zh": "狼",
+    "en": "Border_collie"
+  },
+  {
+    "zh": "狼",
+    "en": "Bouvier_des_Flandres"
+  },
+  {
+    "zh": "狼",
+    "en": "Rottweiler"
+  },
+  {
+    "zh": "狼",
+    "en": "German_shepherd"
+  },
+  {
+    "zh": "狼",
+    "en": "Doberman"
+  },
+  {
+    "zh": "狼",
+    "en": "miniature_pinscher"
+  },
+  {
+    "zh": "狼",
+    "en": "Greater_Swiss_Mountain_dog"
+  },
+  {
+    "zh": "狼",
+    "en": "Bernese_mountain_dog"
+  },
+  {
+    "zh": "狼",
+    "en": "Appenzeller"
+  },
+  {
+    "zh": "狼",
+    "en": "EntleBucher"
+  },
+  {
+    "zh": "狼",
+    "en": "boxer"
+  },
+  {
+    "zh": "狼",
+    "en": "bull_mastiff"
+  },
+  {
+    "zh": "狼",
+    "en": "Tibetan_mastiff"
+  },
+  {
+    "zh": "狼",
+    "en": "French_bulldog"
+  },
+  {
+    "zh": "狼",
+    "en": "Great_Dane"
+  },
+  {
+    "zh": "狼",
+    "en": "Saint_Bernard"
+  },
+  {
+    "zh": "狼",
+    "en": "Eskimo_dog"
+  },
+  {
+    "zh": "狼",
+    "en": "malamute"
+  },
+  {
+    "zh": "狼",
+    "en": "Siberian_husky"
+  },
+  {
+    "zh": "狼",
+    "en": "dalmatian"
+  },
+  {
+    "zh": "狼",
+    "en": "affenpinscher"
+  },
+  {
+    "zh": "狼",
+    "en": "basenji"
+  },
+  {
+    "zh": "狼",
+    "en": "pug"
+  },
+  {
+    "zh": "狼",
+    "en": "Leonberg"
+  },
+  {
+    "zh": "狼",
+    "en": "Newfoundland"
+  },
+  {
+    "zh": "狼",
+    "en": "Great_Pyrenees"
+  },
+  {
+    "zh": "狼",
+    "en": "Samoyed"
+  },
+  {
+    "zh": "狼",
+    "en": "Pomeranian"
+  },
+  {
+    "zh": "狼",
+    "en": "chow"
+  },
+  {
+    "zh": "狼",
+    "en": "keeshond"
+  },
+  {
+    "zh": "狼",
+    "en": "Brabancon_griffon"
+  },
+  {
+    "zh": "狼",
+    "en": "Pembroke"
+  },
+  {
+    "zh": "狼",
+    "en": "Cardigan"
+  },
+  {
+    "zh": "toy_poodle",
+    "en": "toy_poodle"
+  },
+  {
+    "zh": "miniature_poodle",
+    "en": "miniature_poodle"
+  },
+  {
+    "zh": "standard_poodle",
+    "en": "standard_poodle"
+  },
+  {
+    "zh": "Mexican_hairless",
+    "en": "Mexican_hairless"
+  },
+  {
+    "zh": "timber_wolf",
+    "en": "timber_wolf"
+  },
+  {
+    "zh": "white_wolf",
+    "en": "white_wolf"
+  },
+  {
+    "zh": "red_wolf",
+    "en": "red_wolf"
+  },
+  {
+    "zh": "coyote",
+    "en": "coyote"
+  },
+  {
+    "zh": "dingo",
+    "en": "dingo"
+  },
+  {
+    "zh": "dhole",
+    "en": "dhole"
+  },
+  {
+    "zh": "African_hunting_dog",
+    "en": "African_hunting_dog"
+  },
+  {
+    "zh": "hyena",
+    "en": "hyena"
+  },
+  {
+    "zh": "red_fox",
+    "en": "red_fox"
+  },
+  {
+    "zh": "kit_fox",
+    "en": "kit_fox"
+  },
+  {
+    "zh": "Arctic_fox",
+    "en": "Arctic_fox"
+  },
+  {
+    "zh": "grey_fox",
+    "en": "grey_fox"
+  },
+  {
+    "zh": "tabby",
+    "en": "tabby"
+  },
+  {
+    "zh": "tiger_cat",
+    "en": "tiger_cat"
+  },
+  {
+    "zh": "Persian_cat",
+    "en": "Persian_cat"
+  },
+  {
+    "zh": "Siamese_cat",
+    "en": "Siamese_cat"
+  },
+  {
+    "zh": "Egyptian_cat",
+    "en": "Egyptian_cat"
+  },
+  {
+    "zh": "cougar",
+    "en": "cougar"
+  },
+  {
+    "zh": "lynx",
+    "en": "lynx"
+  },
+  {
+    "zh": "leopard",
+    "en": "leopard"
+  },
+  {
+    "zh": "snow_leopard",
+    "en": "snow_leopard"
+  },
+  {
+    "zh": "豹",
+    "en": "jaguar"
+  },
+  {
+    "zh": "豹",
+    "en": "lion"
+  },
+  {
+    "zh": "虎",
+    "en": "tiger"
+  },
+  {
+    "zh": "虎",
+    "en": "cheetah"
+  },
+  {
+    "zh": "熊",
+    "en": "brown_bear"
+  },
+  {
+    "zh": "熊",
+    "en": "American_black_bear"
+  },
+  {
+    "zh": "熊",
+    "en": "ice_bear"
+  },
+  {
+    "zh": "熊",
+    "en": "sloth_bear"
+  },
+  {
+    "zh": "熊",
+    "en": "mongoose"
+  },
+  {
+    "zh": "熊",
+    "en": "meerkat"
+  },
+  {
+    "zh": "熊",
+    "en": "tiger_beetle"
+  },
+  {
+    "zh": "熊",
+    "en": "ladybug"
+  },
+  {
+    "zh": "熊",
+    "en": "ground_beetle"
+  },
+  {
+    "zh": "熊",
+    "en": "long-horned_beetle"
+  },
+  {
+    "zh": "熊",
+    "en": "leaf_beetle"
+  },
+  {
+    "zh": "熊",
+    "en": "dung_beetle"
+  },
+  {
+    "zh": "熊",
+    "en": "rhinoceros_beetle"
+  },
+  {
+    "zh": "熊",
+    "en": "weevil"
+  },
+  {
+    "zh": "熊",
+    "en": "fly"
+  },
+  {
+    "zh": "熊",
+    "en": "bee"
+  },
+  {
+    "zh": "蝴蝶",
+    "en": "ant"
+  },
+  {
+    "zh": "蝴蝶",
+    "en": "grasshopper"
+  },
+  {
+    "zh": "蝴蝶",
+    "en": "cricket"
+  },
+  {
+    "zh": "蝴蝶",
+    "en": "walking_stick"
+  },
+  {
+    "zh": "蝴蝶",
+    "en": "cockroach"
+  },
+  {
+    "zh": "蝴蝶",
+    "en": "mantis"
+  },
+  {
+    "zh": "蝴蝶",
+    "en": "cicada"
+  },
+  {
+    "zh": "蝴蝶",
+    "en": "leafhopper"
+  },
+  {
+    "zh": "蝴蝶",
+    "en": "lacewing"
+  },
+  {
+    "zh": "蝴蝶",
+    "en": "dragonfly"
+  },
+  {
+    "zh": "蛾",
+    "en": "damselfly"
+  },
+  {
+    "zh": "蛾",
+    "en": "admiral"
+  },
+  {
+    "zh": "蛾",
+    "en": "ringlet"
+  },
+  {
+    "zh": "蛾",
+    "en": "monarch"
+  },
+  {
+    "zh": "蛾",
+    "en": "cabbage_butterfly"
+  },
+  {
+    "zh": "蛾",
+    "en": "sulphur_butterfly"
+  },
+  {
+    "zh": "蛾",
+    "en": "lycaenid"
+  },
+  {
+    "zh": "蛾",
+    "en": "starfish"
+  },
+  {
+    "zh": "蛾",
+    "en": "sea_urchin"
+  },
+  {
+    "zh": "蛾",
+    "en": "sea_cucumber"
+  },
+  {
+    "zh": "蛾",
+    "en": "wood_rabbit"
+  },
+  {
+    "zh": "蛾",
+    "en": "hare"
+  },
+  {
+    "zh": "蛾",
+    "en": "Angora"
+  },
+  {
+    "zh": "蛾",
+    "en": "hamster"
+  },
+  {
+    "zh": "蛾",
+    "en": "porcupine"
+  },
+  {
+    "zh": "蛾",
+    "en": "fox_squirrel"
+  },
+  {
+    "zh": "蛾",
+    "en": "marmot"
+  },
+  {
+    "zh": "蛾",
+    "en": "beaver"
+  },
+  {
+    "zh": "蛾",
+    "en": "guinea_pig"
+  },
+  {
+    "zh": "蛾",
+    "en": "sorrel"
+  },
+  {
+    "zh": "蜘蛛",
+    "en": "zebra"
+  },
+  {
+    "zh": "蜘蛛",
+    "en": "hog"
+  },
+  {
+    "zh": "蜘蛛",
+    "en": "wild_boar"
+  },
+  {
+    "zh": "蜘蛛",
+    "en": "warthog"
+  },
+  {
+    "zh": "蜘蛛",
+    "en": "hippopotamus"
+  },
+  {
+    "zh": "驴",
+    "en": "ox"
+  },
+  {
+    "zh": "马",
+    "en": "water_buffalo"
+  },
+  {
+    "zh": "马",
+    "en": "bison"
+  },
+  {
+    "zh": "马",
+    "en": "ram"
+  },
+  {
+    "zh": "马",
+    "en": "bighorn"
+  },
+  {
+    "zh": "马",
+    "en": "ibex"
+  },
+  {
+    "zh": "马",
+    "en": "hartebeest"
+  },
+  {
+    "zh": "马",
+    "en": "impala"
+  },
+  {
+    "zh": "马",
+    "en": "gazelle"
+  },
+  {
+    "zh": "马",
+    "en": "Arabian_camel"
+  },
+  {
+    "zh": "马",
+    "en": "llama"
+  },
+  {
+    "zh": "马",
+    "en": "weasel"
+  },
+  {
+    "zh": "马",
+    "en": "mink"
+  },
+  {
+    "zh": "马",
+    "en": "polecat"
+  },
+  {
+    "zh": "马",
+    "en": "black-footed_ferret"
+  },
+  {
+    "zh": "马",
+    "en": "otter"
+  },
+  {
+    "zh": "马",
+    "en": "skunk"
+  },
+  {
+    "zh": "马",
+    "en": "badger"
+  },
+  {
+    "zh": "猪",
+    "en": "armadillo"
+  },
+  {
+    "zh": "猪",
+    "en": "three-toed_sloth"
+  },
+  {
+    "zh": "牛",
+    "en": "orangutan"
+  },
+  {
+    "zh": "牛",
+    "en": "gorilla"
+  },
+  {
+    "zh": "牛",
+    "en": "chimpanzee"
+  },
+  {
+    "zh": "羊",
+    "en": "gibbon"
+  },
+  {
+    "zh": "羊",
+    "en": "siamang"
+  },
+  {
+    "zh": "羊",
+    "en": "guenon"
+  },
+  {
+    "zh": "羊",
+    "en": "patas"
+  },
+  {
+    "zh": "羊",
+    "en": "baboon"
+  },
+  {
+    "zh": "羊",
+    "en": "macaque"
+  },
+  {
+    "zh": "羊",
+    "en": "langur"
+  },
+  {
+    "zh": "羊",
+    "en": "colobus"
+  },
+  {
+    "zh": "羊",
+    "en": "proboscis_monkey"
+  },
+  {
+    "zh": "羊",
+    "en": "marmoset"
+  },
+  {
+    "zh": "猩猩",
+    "en": "capuchin"
+  },
+  {
+    "zh": "猩猩",
+    "en": "howler_monkey"
+  },
+  {
+    "zh": "猩猩",
+    "en": "titi"
+  },
+  {
+    "zh": "猩猩",
+    "en": "spider_monkey"
+  },
+  {
+    "zh": "猩猩",
+    "en": "squirrel_monkey"
+  },
+  {
+    "zh": "猩猩",
+    "en": "Madagascar_cat"
+  },
+  {
+    "zh": "猩猩",
+    "en": "indri"
+  },
+  {
+    "zh": "猩猩",
+    "en": "Indian_elephant"
+  },
+  {
+    "zh": "猩猩",
+    "en": "African_elephant"
+  },
+  {
+    "zh": "猩猩",
+    "en": "lesser_panda"
+  },
+  {
+    "zh": "大猩猩",
+    "en": "giant_panda"
+  },
+  {
+    "zh": "黑猩猩",
+    "en": "barracouta"
+  },
+  {
+    "zh": "猴子",
+    "en": "eel"
+  },
+  {
+    "zh": "猴子",
+    "en": "coho"
+  },
+  {
+    "zh": "猴子",
+    "en": "rock_beauty"
+  },
+  {
+    "zh": "猴子",
+    "en": "anemone_fish"
+  },
+  {
+    "zh": "猴子",
+    "en": "sturgeon"
+  },
+  {
+    "zh": "猴子",
+    "en": "gar"
+  },
+  {
+    "zh": "猴子",
+    "en": "lionfish"
+  },
+  {
+    "zh": "猴子",
+    "en": "puffer"
+  },
+  {
+    "zh": "猴子",
+    "en": "abacus"
+  },
+  {
+    "zh": "猴子",
+    "en": "abaya"
+  },
+  {
+    "zh": "猴子",
+    "en": "academic_gown"
+  },
+  {
+    "zh": "猴子",
+    "en": "accordion"
+  },
+  {
+    "zh": "猴子",
+    "en": "acoustic_guitar"
+  },
+  {
+    "zh": "猴子",
+    "en": "aircraft_carrier"
+  },
+  {
+    "zh": "猴子",
+    "en": "airliner"
+  },
+  {
+    "zh": "猴子",
+    "en": "airship"
+  },
+  {
+    "zh": "猴子",
+    "en": "altar"
+  },
+  {
+    "zh": "猴子",
+    "en": "ambulance"
+  },
+  {
+    "zh": "猴子",
+    "en": "amphibian"
+  },
+  {
+    "zh": "猴子",
+    "en": "analog_clock"
+  },
+  {
+    "zh": "猴子",
+    "en": "apiary"
+  },
+  {
+    "zh": "猴子",
+    "en": "apron"
+  },
+  {
+    "zh": "猴子",
+    "en": "ashcan"
+  },
+  {
+    "zh": "猴子",
+    "en": "assault_rifle"
+  },
+  {
+    "zh": "猴子",
+    "en": "backpack"
+  },
+  {
+    "zh": "猴子",
+    "en": "bakery"
+  },
+  {
+    "zh": "猴子",
+    "en": "balance_beam"
+  },
+  {
+    "zh": "猴子",
+    "en": "balloon"
+  },
+  {
+    "zh": "猴子",
+    "en": "ballpoint"
+  },
+  {
+    "zh": "猴子",
+    "en": "Band_Aid"
+  },
+  {
+    "zh": "猴子",
+    "en": "banjo"
+  },
+  {
+    "zh": "猴子",
+    "en": "bannister"
+  },
+  {
+    "zh": "猴子",
+    "en": "barbell"
+  },
+  {
+    "zh": "猴子",
+    "en": "barber_chair"
+  },
+  {
+    "zh": "猴子",
+    "en": "barbershop"
+  },
+  {
+    "zh": "猴子",
+    "en": "barn"
+  },
+  {
+    "zh": "猴子",
+    "en": "barometer"
+  },
+  {
+    "zh": "猴子",
+    "en": "barrel"
+  },
+  {
+    "zh": "猴子",
+    "en": "barrow"
+  },
+  {
+    "zh": "猴子",
+    "en": "baseball"
+  },
+  {
+    "zh": "猴子",
+    "en": "basketball"
+  },
+  {
+    "zh": "猴子",
+    "en": "bassinet"
+  },
+  {
+    "zh": "猴子",
+    "en": "bassoon"
+  },
+  {
+    "zh": "猴子",
+    "en": "bathing_cap"
+  },
+  {
+    "zh": "猴子",
+    "en": "bath_towel"
+  },
+  {
+    "zh": "猴子",
+    "en": "bathtub"
+  },
+  {
+    "zh": "猴子",
+    "en": "beach_wagon"
+  },
+  {
+    "zh": "猴子",
+    "en": "beacon"
+  },
+  {
+    "zh": "猴子",
+    "en": "beaker"
+  },
+  {
+    "zh": "猴子",
+    "en": "bearskin"
+  },
+  {
+    "zh": "猴子",
+    "en": "beer_bottle"
+  },
+  {
+    "zh": "猴子",
+    "en": "beer_glass"
+  },
+  {
+    "zh": "猴子",
+    "en": "bell_cote"
+  },
+  {
+    "zh": "猴子",
+    "en": "bib"
+  },
+  {
+    "zh": "猴子",
+    "en": "bicycle-built-for-two"
+  },
+  {
+    "zh": "猴子",
+    "en": "bikini"
+  },
+  {
+    "zh": "猴子",
+    "en": "binder"
+  },
+  {
+    "zh": "猴子",
+    "en": "binoculars"
+  },
+  {
+    "zh": "猴子",
+    "en": "birdhouse"
+  },
+  {
+    "zh": "猴子",
+    "en": "boathouse"
+  },
+  {
+    "zh": "碗",
+    "en": "bobsled"
+  },
+  {
+    "zh": "马桶",
+    "en": "bolo_tie"
+  },
+  {
+    "zh": "杯子",
+    "en": "bonnet"
+  },
+  {
+    "zh": "杯子",
+    "en": "bookcase"
+  },
+  {
+    "zh": "杯子",
+    "en": "bookshop"
+  },
+  {
+    "zh": "瓶子",
+    "en": "bottlecap"
+  },
+  {
+    "zh": "瓶子",
+    "en": "bow"
+  },
+  {
+    "zh": "杯子",
+    "en": "bow_tie"
+  },
+  {
+    "zh": "杯子",
+    "en": "brass"
+  },
+  {
+    "zh": "杯子",
+    "en": "brassiere"
+  },
+  {
+    "zh": "杯子",
+    "en": "breakwater"
+  },
+  {
+    "zh": "杯子",
+    "en": "breastplate"
+  },
+  {
+    "zh": "杯子",
+    "en": "broom"
+  },
+  {
+    "zh": "杯子",
+    "en": "bucket"
+  },
+  {
+    "zh": "杯子",
+    "en": "buckle"
+  },
+  {
+    "zh": "杯子",
+    "en": "bulletproof_vest"
+  },
+  {
+    "zh": "杯子",
+    "en": "bullet_train"
+  },
+  {
+    "zh": "杯子",
+    "en": "butcher_shop"
+  },
+  {
+    "zh": "杯子",
+    "en": "cab"
+  },
+  {
+    "zh": "杯子",
+    "en": "caldron"
+  },
+  {
+    "zh": "杯子",
+    "en": "candle"
+  },
+  {
+    "zh": "杯子",
+    "en": "cannon"
+  },
+  {
+    "zh": "杯子",
+    "en": "canoe"
+  },
+  {
+    "zh": "杯子",
+    "en": "can_opener"
+  },
+  {
+    "zh": "杯子",
+    "en": "cardigan"
+  },
+  {
+    "zh": "杯子",
+    "en": "car_mirror"
+  },
+  {
+    "zh": "杯子",
+    "en": "carousel"
+  },
+  {
+    "zh": "杯子",
+    "en": "carpenter's_kit"
+  },
+  {
+    "zh": "杯子",
+    "en": "carton"
+  },
+  {
+    "zh": "杯子",
+    "en": "car_wheel"
+  },
+  {
+    "zh": "钱包",
+    "en": "cash_machine"
+  },
+  {
+    "zh": "钱包",
+    "en": "cassette"
+  },
+  {
+    "zh": "钱包",
+    "en": "cassette_player"
+  },
+  {
+    "zh": "钱包",
+    "en": "castle"
+  },
+  {
+    "zh": "钱包",
+    "en": "catamaran"
+  },
+  {
+    "zh": "钱包",
+    "en": "CD_player"
+  },
+  {
+    "zh": "钱包",
+    "en": "cello"
+  },
+  {
+    "zh": "钱包",
+    "en": "cellular_telephone"
+  },
+  {
+    "zh": "钱包",
+    "en": "chain"
+  },
+  {
+    "zh": "钱包",
+    "en": "chainlink_fence"
+  },
+  {
+    "zh": "碗",
+    "en": "chain_mail"
+  },
+  {
+    "zh": "碗",
+    "en": "chain_saw"
+  },
+  {
+    "zh": "碗",
+    "en": "chest"
+  },
+  {
+    "zh": "碗",
+    "en": "chiffonier"
+  },
+  {
+    "zh": "碗",
+    "en": "chime"
+  },
+  {
+    "zh": "碗",
+    "en": "china_cabinet"
+  },
+  {
+    "zh": "碗",
+    "en": "Christmas_stocking"
+  },
+  {
+    "zh": "碗",
+    "en": "church"
+  },
+  {
+    "zh": "碗",
+    "en": "cinema"
+  },
+  {
+    "zh": "碗",
+    "en": "cleaver"
+  },
+  {
+    "zh": "碗",
+    "en": "cliff_dwelling"
+  },
+  {
+    "zh": "碗",
+    "en": "cloak"
+  },
+  {
+    "zh": "碗",
+    "en": "clog"
+  },
+  {
+    "zh": "碗",
+    "en": "cocktail_shaker"
+  },
+  {
+    "zh": "碗",
+    "en": "coffee_mug"
+  },
+  {
+    "zh": "碗",
+    "en": "coffeepot"
+  },
+  {
+    "zh": "碗",
+    "en": "coil"
+  },
+  {
+    "zh": "碗",
+    "en": "combination_lock"
+  },
+  {
+    "zh": "碗",
+    "en": "computer_keyboard"
+  },
+  {
+    "zh": "碗",
+    "en": "confectionery"
+  },
+  {
+    "zh": "杯子",
+    "en": "container_ship"
+  },
+  {
+    "zh": "杯子",
+    "en": "convertible"
+  },
+  {
+    "zh": "杯子",
+    "en": "corkscrew"
+  },
+  {
+    "zh": "杯子",
+    "en": "cornet"
+  },
+  {
+    "zh": "杯子",
+    "en": "cowboy_boot"
+  },
+  {
+    "zh": "杯子",
+    "en": "cowboy_hat"
+  },
+  {
+    "zh": "杯子",
+    "en": "cradle"
+  },
+  {
+    "zh": "杯子",
+    "en": "crane"
+  },
+  {
+    "zh": "杯子",
+    "en": "crash_helmet"
+  },
+  {
+    "zh": "杯子",
+    "en": "crate"
+  },
+  {
+    "zh": "杯子",
+    "en": "crib"
+  },
+  {
+    "zh": "杯子",
+    "en": "Crock_Pot"
+  },
+  {
+    "zh": "杯子",
+    "en": "croquet_ball"
+  },
+  {
+    "zh": "杯子",
+    "en": "crutch"
+  },
+  {
+    "zh": "杯子",
+    "en": "cuirass"
+  },
+  {
+    "zh": "杯子",
+    "en": "dam"
+  },
+  {
+    "zh": "杯子",
+    "en": "desk"
+  },
+  {
+    "zh": "杯子",
+    "en": "desktop_computer"
+  },
+  {
+    "zh": "杯子",
+    "en": "dial_telephone"
+  },
+  {
+    "zh": "杯子",
+    "en": "diaper"
+  },
+  {
+    "zh": "杯子",
+    "en": "digital_clock"
+  },
+  {
+    "zh": "杯子",
+    "en": "digital_watch"
+  },
+  {
+    "zh": "杯子",
+    "en": "dining_table"
+  },
+  {
+    "zh": "杯子",
+    "en": "dishrag"
+  },
+  {
+    "zh": "开关",
+    "en": "dishwasher"
+  },
+  {
+    "zh": "插座",
+    "en": "disk_brake"
+  },
+  {
+    "zh": "开关",
+    "en": "dock"
+  },
+  {
+    "zh": "开关",
+    "en": "dogsled"
+  },
+  {
+    "zh": "开关",
+    "en": "dome"
+  },
+  {
+    "zh": "开关",
+    "en": "doormat"
+  },
+  {
+    "zh": "开关",
+    "en": "drilling_platform"
+  },
+  {
+    "zh": "开关",
+    "en": "drum"
+  },
+  {
+    "zh": "开关",
+    "en": "drumstick"
+  },
+  {
+    "zh": "按钮",
+    "en": "dumbbell"
+  },
+  {
+    "zh": "按钮",
+    "en": "Dutch_oven"
+  },
+  {
+    "zh": "按钮",
+    "en": "electric_fan"
+  },
+  {
+    "zh": "按钮",
+    "en": "electric_guitar"
+  },
+  {
+    "zh": "按钮",
+    "en": "electric_locomotive"
+  },
+  {
+    "zh": "按钮",
+    "en": "entertainment_center"
+  },
+  {
+    "zh": "按钮",
+    "en": "envelope"
+  },
+  {
+    "zh": "烤箱",
+    "en": "espresso_maker"
+  },
+  {
+    "zh": "face_powder",
+    "en": "face_powder"
+  },
+  {
+    "zh": "feather_boa",
+    "en": "feather_boa"
+  },
+  {
+    "zh": "file",
+    "en": "file"
+  },
+  {
+    "zh": "fireboat",
+    "en": "fireboat"
+  },
+  {
+    "zh": "fire_engine",
+    "en": "fire_engine"
+  },
+  {
+    "zh": "fire_screen",
+    "en": "fire_screen"
+  },
+  {
+    "zh": "flagpole",
+    "en": "flagpole"
+  },
+  {
+    "zh": "flute",
+    "en": "flute"
+  },
+  {
+    "zh": "folding_chair",
+    "en": "folding_chair"
+  },
+  {
+    "zh": "football_helmet",
+    "en": "football_helmet"
+  },
+  {
+    "zh": "forklift",
+    "en": "forklift"
+  },
+  {
+    "zh": "fountain",
+    "en": "fountain"
+  },
+  {
+    "zh": "fountain_pen",
+    "en": "fountain_pen"
+  },
+  {
+    "zh": "four-poster",
+    "en": "four-poster"
+  },
+  {
+    "zh": "freight_car",
+    "en": "freight_car"
+  },
+  {
+    "zh": "French_horn",
+    "en": "French_horn"
+  },
+  {
+    "zh": "frying_pan",
+    "en": "frying_pan"
+  },
+  {
+    "zh": "fur_coat",
+    "en": "fur_coat"
+  },
+  {
+    "zh": "garbage_truck",
+    "en": "garbage_truck"
+  },
+  {
+    "zh": "gasmask",
+    "en": "gasmask"
+  },
+  {
+    "zh": "gas_pump",
+    "en": "gas_pump"
+  },
+  {
+    "zh": "goblet",
+    "en": "goblet"
+  },
+  {
+    "zh": "go-kart",
+    "en": "go-kart"
+  },
+  {
+    "zh": "golf_ball",
+    "en": "golf_ball"
+  },
+  {
+    "zh": "golfcart",
+    "en": "golfcart"
+  },
+  {
+    "zh": "gondola",
+    "en": "gondola"
+  },
+  {
+    "zh": "gong",
+    "en": "gong"
+  },
+  {
+    "zh": "gown",
+    "en": "gown"
+  },
+  {
+    "zh": "grand_piano",
+    "en": "grand_piano"
+  },
+  {
+    "zh": "greenhouse",
+    "en": "greenhouse"
+  },
+  {
+    "zh": "grille",
+    "en": "grille"
+  },
+  {
+    "zh": "grocery_store",
+    "en": "grocery_store"
+  },
+  {
+    "zh": "guillotine",
+    "en": "guillotine"
+  },
+  {
+    "zh": "hair_slide",
+    "en": "hair_slide"
+  },
+  {
+    "zh": "hair_spray",
+    "en": "hair_spray"
+  },
+  {
+    "zh": "half_track",
+    "en": "half_track"
+  },
+  {
+    "zh": "hammer",
+    "en": "hammer"
+  },
+  {
+    "zh": "hamper",
+    "en": "hamper"
+  },
+  {
+    "zh": "hand_blower",
+    "en": "hand_blower"
+  },
+  {
+    "zh": "hand-held_computer",
+    "en": "hand-held_computer"
+  },
+  {
+    "zh": "handkerchief",
+    "en": "handkerchief"
+  },
+  {
+    "zh": "hard_disc",
+    "en": "hard_disc"
+  },
+  {
+    "zh": "harmonica",
+    "en": "harmonica"
+  },
+  {
+    "zh": "harp",
+    "en": "harp"
+  },
+  {
+    "zh": "harvester",
+    "en": "harvester"
+  },
+  {
+    "zh": "hatchet",
+    "en": "hatchet"
+  },
+  {
+    "zh": "holster",
+    "en": "holster"
+  },
+  {
+    "zh": "home_theater",
+    "en": "home_theater"
+  },
+  {
+    "zh": "honeycomb",
+    "en": "honeycomb"
+  },
+  {
+    "zh": "hook",
+    "en": "hook"
+  },
+  {
+    "zh": "hoopskirt",
+    "en": "hoopskirt"
+  },
+  {
+    "zh": "horizontal_bar",
+    "en": "horizontal_bar"
+  },
+  {
+    "zh": "horse_cart",
+    "en": "horse_cart"
+  },
+  {
+    "zh": "hourglass",
+    "en": "hourglass"
+  },
+  {
+    "zh": "iPod",
+    "en": "iPod"
+  },
+  {
+    "zh": "iron",
+    "en": "iron"
+  },
+  {
+    "zh": "jack-o'-lantern",
+    "en": "jack-o'-lantern"
+  },
+  {
+    "zh": "jean",
+    "en": "jean"
+  },
+  {
+    "zh": "jeep",
+    "en": "jeep"
+  },
+  {
+    "zh": "jersey",
+    "en": "jersey"
+  },
+  {
+    "zh": "jigsaw_puzzle",
+    "en": "jigsaw_puzzle"
+  },
+  {
+    "zh": "jinrikisha",
+    "en": "jinrikisha"
+  },
+  {
+    "zh": "joystick",
+    "en": "joystick"
+  },
+  {
+    "zh": "kimono",
+    "en": "kimono"
+  },
+  {
+    "zh": "knee_pad",
+    "en": "knee_pad"
+  },
+  {
+    "zh": "knot",
+    "en": "knot"
+  },
+  {
+    "zh": "lab_coat",
+    "en": "lab_coat"
+  },
+  {
+    "zh": "ladle",
+    "en": "ladle"
+  },
+  {
+    "zh": "lampshade",
+    "en": "lampshade"
+  },
+  {
+    "zh": "laptop",
+    "en": "laptop"
+  },
+  {
+    "zh": "lawn_mower",
+    "en": "lawn_mower"
+  },
+  {
+    "zh": "lens_cap",
+    "en": "lens_cap"
+  },
+  {
+    "zh": "letter_opener",
+    "en": "letter_opener"
+  },
+  {
+    "zh": "library",
+    "en": "library"
+  },
+  {
+    "zh": "lifeboat",
+    "en": "lifeboat"
+  },
+  {
+    "zh": "lighter",
+    "en": "lighter"
+  },
+  {
+    "zh": "limousine",
+    "en": "limousine"
+  },
+  {
+    "zh": "liner",
+    "en": "liner"
+  },
+  {
+    "zh": "lipstick",
+    "en": "lipstick"
+  },
+  {
+    "zh": "Loafer",
+    "en": "Loafer"
+  },
+  {
+    "zh": "lotion",
+    "en": "lotion"
+  },
+  {
+    "zh": "loudspeaker",
+    "en": "loudspeaker"
+  },
+  {
+    "zh": "loupe",
+    "en": "loupe"
+  },
+  {
+    "zh": "lumbermill",
+    "en": "lumbermill"
+  },
+  {
+    "zh": "magnetic_compass",
+    "en": "magnetic_compass"
+  },
+  {
+    "zh": "mailbag",
+    "en": "mailbag"
+  },
+  {
+    "zh": "mailbox",
+    "en": "mailbox"
+  },
+  {
+    "zh": "maillot",
+    "en": "maillot"
+  },
+  {
+    "zh": "maillot",
+    "en": "maillot"
+  },
+  {
+    "zh": "manhole_cover",
+    "en": "manhole_cover"
+  },
+  {
+    "zh": "maraca",
+    "en": "maraca"
+  },
+  {
+    "zh": "marimba",
+    "en": "marimba"
+  },
+  {
+    "zh": "mask",
+    "en": "mask"
+  },
+  {
+    "zh": "matchstick",
+    "en": "matchstick"
+  },
+  {
+    "zh": "maypole",
+    "en": "maypole"
+  },
+  {
+    "zh": "maze",
+    "en": "maze"
+  },
+  {
+    "zh": "measuring_cup",
+    "en": "measuring_cup"
+  },
+  {
+    "zh": "medicine_chest",
+    "en": "medicine_chest"
+  },
+  {
+    "zh": "megalith",
+    "en": "megalith"
+  },
+  {
+    "zh": "microphone",
+    "en": "microphone"
+  },
+  {
+    "zh": "microwave",
+    "en": "microwave"
+  },
+  {
+    "zh": "military_uniform",
+    "en": "military_uniform"
+  },
+  {
+    "zh": "milk_can",
+    "en": "milk_can"
+  },
+  {
+    "zh": "minibus",
+    "en": "minibus"
+  },
+  {
+    "zh": "miniskirt",
+    "en": "miniskirt"
+  },
+  {
+    "zh": "minivan",
+    "en": "minivan"
+  },
+  {
+    "zh": "missile",
+    "en": "missile"
+  },
+  {
+    "zh": "mitten",
+    "en": "mitten"
+  },
+  {
+    "zh": "mixing_bowl",
+    "en": "mixing_bowl"
+  },
+  {
+    "zh": "mobile_home",
+    "en": "mobile_home"
+  },
+  {
+    "zh": "Model_T",
+    "en": "Model_T"
+  },
+  {
+    "zh": "modem",
+    "en": "modem"
+  },
+  {
+    "zh": "monastery",
+    "en": "monastery"
+  },
+  {
+    "zh": "monitor",
+    "en": "monitor"
+  },
+  {
+    "zh": "moped",
+    "en": "moped"
+  },
+  {
+    "zh": "mortar",
+    "en": "mortar"
+  },
+  {
+    "zh": "mortarboard",
+    "en": "mortarboard"
+  },
+  {
+    "zh": "mosque",
+    "en": "mosque"
+  },
+  {
+    "zh": "mosquito_net",
+    "en": "mosquito_net"
+  },
+  {
+    "zh": "motor_scooter",
+    "en": "motor_scooter"
+  },
+  {
+    "zh": "mountain_bike",
+    "en": "mountain_bike"
+  },
+  {
+    "zh": "mountain_tent",
+    "en": "mountain_tent"
+  },
+  {
+    "zh": "mouse",
+    "en": "mouse"
+  },
+  {
+    "zh": "mousetrap",
+    "en": "mousetrap"
+  },
+  {
+    "zh": "moving_van",
+    "en": "moving_van"
+  },
+  {
+    "zh": "muzzle",
+    "en": "muzzle"
+  },
+  {
+    "zh": "nail",
+    "en": "nail"
+  },
+  {
+    "zh": "neck_brace",
+    "en": "neck_brace"
+  },
+  {
+    "zh": "necklace",
+    "en": "necklace"
+  },
+  {
+    "zh": "nipple",
+    "en": "nipple"
+  },
+  {
+    "zh": "notebook",
+    "en": "notebook"
+  },
+  {
+    "zh": "obelisk",
+    "en": "obelisk"
+  },
+  {
+    "zh": "oboe",
+    "en": "oboe"
+  },
+  {
+    "zh": "ocarina",
+    "en": "ocarina"
+  },
+  {
+    "zh": "odometer",
+    "en": "odometer"
+  },
+  {
+    "zh": "oil_filter",
+    "en": "oil_filter"
+  },
+  {
+    "zh": "organ",
+    "en": "organ"
+  },
+  {
+    "zh": "oscilloscope",
+    "en": "oscilloscope"
+  },
+  {
+    "zh": "overskirt",
+    "en": "overskirt"
+  },
+  {
+    "zh": "oxcart",
+    "en": "oxcart"
+  },
+  {
+    "zh": "oxygen_mask",
+    "en": "oxygen_mask"
+  },
+  {
+    "zh": "packet",
+    "en": "packet"
+  },
+  {
+    "zh": "paddle",
+    "en": "paddle"
+  },
+  {
+    "zh": "paddlewheel",
+    "en": "paddlewheel"
+  },
+  {
+    "zh": "padlock",
+    "en": "padlock"
+  },
+  {
+    "zh": "paintbrush",
+    "en": "paintbrush"
+  },
+  {
+    "zh": "pajama",
+    "en": "pajama"
+  },
+  {
+    "zh": "palace",
+    "en": "palace"
+  },
+  {
+    "zh": "panpipe",
+    "en": "panpipe"
+  },
+  {
+    "zh": "paper_towel",
+    "en": "paper_towel"
+  },
+  {
+    "zh": "parachute",
+    "en": "parachute"
+  },
+  {
+    "zh": "parallel_bars",
+    "en": "parallel_bars"
+  },
+  {
+    "zh": "park_bench",
+    "en": "park_bench"
+  },
+  {
+    "zh": "parking_meter",
+    "en": "parking_meter"
+  },
+  {
+    "zh": "passenger_car",
+    "en": "passenger_car"
+  },
+  {
+    "zh": "patio",
+    "en": "patio"
+  },
+  {
+    "zh": "pay-phone",
+    "en": "pay-phone"
+  },
+  {
+    "zh": "pedestal",
+    "en": "pedestal"
+  },
+  {
+    "zh": "pencil_box",
+    "en": "pencil_box"
+  },
+  {
+    "zh": "pencil_sharpener",
+    "en": "pencil_sharpener"
+  },
+  {
+    "zh": "perfume",
+    "en": "perfume"
+  },
+  {
+    "zh": "Petri_dish",
+    "en": "Petri_dish"
+  },
+  {
+    "zh": "photocopier",
+    "en": "photocopier"
+  },
+  {
+    "zh": "pick",
+    "en": "pick"
+  },
+  {
+    "zh": "pickelhaube",
+    "en": "pickelhaube"
+  },
+  {
+    "zh": "picket_fence",
+    "en": "picket_fence"
+  },
+  {
+    "zh": "pickup",
+    "en": "pickup"
+  },
+  {
+    "zh": "pier",
+    "en": "pier"
+  },
+  {
+    "zh": "piggy_bank",
+    "en": "piggy_bank"
+  },
+  {
+    "zh": "pill_bottle",
+    "en": "pill_bottle"
+  },
+  {
+    "zh": "pillow",
+    "en": "pillow"
+  },
+  {
+    "zh": "ping-pong_ball",
+    "en": "ping-pong_ball"
+  },
+  {
+    "zh": "pinwheel",
+    "en": "pinwheel"
+  },
+  {
+    "zh": "pirate",
+    "en": "pirate"
+  },
+  {
+    "zh": "pitcher",
+    "en": "pitcher"
+  },
+  {
+    "zh": "plane",
+    "en": "plane"
+  },
+  {
+    "zh": "planetarium",
+    "en": "planetarium"
+  },
+  {
+    "zh": "plastic_bag",
+    "en": "plastic_bag"
+  },
+  {
+    "zh": "plate_rack",
+    "en": "plate_rack"
+  },
+  {
+    "zh": "plow",
+    "en": "plow"
+  },
+  {
+    "zh": "plunger",
+    "en": "plunger"
+  },
+  {
+    "zh": "Polaroid_camera",
+    "en": "Polaroid_camera"
+  },
+  {
+    "zh": "pole",
+    "en": "pole"
+  },
+  {
+    "zh": "police_van",
+    "en": "police_van"
+  },
+  {
+    "zh": "poncho",
+    "en": "poncho"
+  },
+  {
+    "zh": "pool_table",
+    "en": "pool_table"
+  },
+  {
+    "zh": "pop_bottle",
+    "en": "pop_bottle"
+  },
+  {
+    "zh": "pot",
+    "en": "pot"
+  },
+  {
+    "zh": "potter's_wheel",
+    "en": "potter's_wheel"
+  },
+  {
+    "zh": "power_drill",
+    "en": "power_drill"
+  },
+  {
+    "zh": "prayer_rug",
+    "en": "prayer_rug"
+  },
+  {
+    "zh": "printer",
+    "en": "printer"
+  },
+  {
+    "zh": "prison",
+    "en": "prison"
+  },
+  {
+    "zh": "projectile",
+    "en": "projectile"
+  },
+  {
+    "zh": "projector",
+    "en": "projector"
+  },
+  {
+    "zh": "puck",
+    "en": "puck"
+  },
+  {
+    "zh": "punching_bag",
+    "en": "punching_bag"
+  },
+  {
+    "zh": "purse",
+    "en": "purse"
+  },
+  {
+    "zh": "quill",
+    "en": "quill"
+  },
+  {
+    "zh": "quilt",
+    "en": "quilt"
+  },
+  {
+    "zh": "racer",
+    "en": "racer"
+  },
+  {
+    "zh": "racket",
+    "en": "racket"
+  },
+  {
+    "zh": "radiator",
+    "en": "radiator"
+  },
+  {
+    "zh": "radio",
+    "en": "radio"
+  },
+  {
+    "zh": "radio_telescope",
+    "en": "radio_telescope"
+  },
+  {
+    "zh": "rain_barrel",
+    "en": "rain_barrel"
+  },
+  {
+    "zh": "recreational_vehicle",
+    "en": "recreational_vehicle"
+  },
+  {
+    "zh": "reel",
+    "en": "reel"
+  },
+  {
+    "zh": "reflex_camera",
+    "en": "reflex_camera"
+  },
+  {
+    "zh": "蛋糕",
+    "en": "refrigerator"
+  },
+  {
+    "zh": "remote_control",
+    "en": "remote_control"
+  },
+  {
+    "zh": "松饼",
+    "en": "restaurant"
+  },
+  {
+    "zh": "甜甜圈",
+    "en": "revolver"
+  },
+  {
+    "zh": "甜甜圈",
+    "en": "rifle"
+  },
+  {
+    "zh": "甜甜圈",
+    "en": "rocking_chair"
+  },
+  {
+    "zh": "卷饼",
+    "en": "rotisserie"
+  },
+  {
+    "zh": "墨西哥卷",
+    "en": "rubber_eraser"
+  },
+  {
+    "zh": "三明治",
+    "en": "rugby_ball"
+  },
+  {
+    "zh": "三明治",
+    "en": "rule"
+  },
+  {
+    "zh": "三明治",
+    "en": "running_shoe"
+  },
+  {
+    "zh": "三明治",
+    "en": "safe"
+  },
+  {
+    "zh": "三明治",
+    "en": "safety_pin"
+  },
+  {
+    "zh": "三明治",
+    "en": "saltshaker"
+  },
+  {
+    "zh": "三明治",
+    "en": "sandal"
+  },
+  {
+    "zh": "面包",
+    "en": "sarong"
+  },
+  {
+    "zh": "面包",
+    "en": "sax"
+  },
+  {
+    "zh": "面包",
+    "en": "scabbard"
+  },
+  {
+    "zh": "奶酪",
+    "en": "scale"
+  },
+  {
+    "zh": "奶酪",
+    "en": "school_bus"
+  },
+  {
+    "zh": "奶酪",
+    "en": "schooner"
+  },
+  {
+    "zh": "奶酪",
+    "en": "scoreboard"
+  },
+  {
+    "zh": "奶酪",
+    "en": "screen"
+  },
+  {
+    "zh": "奶酪",
+    "en": "screw"
+  },
+  {
+    "zh": "奶酪",
+    "en": "screwdriver"
+  },
+  {
+    "zh": "甜点",
+    "en": "seat_belt"
+  },
+  {
+    "zh": "甜点",
+    "en": "sewing_machine"
+  },
+  {
+    "zh": "甜点",
+    "en": "shield"
+  },
+  {
+    "zh": "甜点",
+    "en": "shoe_shop"
+  },
+  {
+    "zh": "冰激凌",
+    "en": "shoji"
+  },
+  {
+    "zh": "冰激凌",
+    "en": "shopping_basket"
+  },
+  {
+    "zh": "冰激凌",
+    "en": "shopping_cart"
+  },
+  {
+    "zh": "冰激凌",
+    "en": "shovel"
+  },
+  {
+    "zh": "冰激凌",
+    "en": "shower_cap"
+  },
+  {
+    "zh": "冰激凌",
+    "en": "shower_curtain"
+  },
+  {
+    "zh": "巧克力",
+    "en": "ski"
+  },
+  {
+    "zh": "巧克力",
+    "en": "ski_mask"
+  },
+  {
+    "zh": "巧克力",
+    "en": "sleeping_bag"
+  },
+  {
+    "zh": "巧克力",
+    "en": "slide_rule"
+  },
+  {
+    "zh": "巧克力",
+    "en": "sliding_door"
+  },
+  {
+    "zh": "帽子",
+    "en": "slot"
+  },
+  {
+    "zh": "snorkel",
+    "en": "snorkel"
+  },
+  {
+    "zh": "snowmobile",
+    "en": "snowmobile"
+  },
+  {
+    "zh": "snowplow",
+    "en": "snowplow"
+  },
+  {
+    "zh": "soap_dispenser",
+    "en": "soap_dispenser"
+  },
+  {
+    "zh": "soccer_ball",
+    "en": "soccer_ball"
+  },
+  {
+    "zh": "sock",
+    "en": "sock"
+  },
+  {
+    "zh": "solar_dish",
+    "en": "solar_dish"
+  },
+  {
+    "zh": "sombrero",
+    "en": "sombrero"
+  },
+  {
+    "zh": "soup_bowl",
+    "en": "soup_bowl"
+  },
+  {
+    "zh": "space_bar",
+    "en": "space_bar"
+  },
+  {
+    "zh": "space_heater",
+    "en": "space_heater"
+  },
+  {
+    "zh": "space_shuttle",
+    "en": "space_shuttle"
+  },
+  {
+    "zh": "spatula",
+    "en": "spatula"
+  },
+  {
+    "zh": "speedboat",
+    "en": "speedboat"
+  },
+  {
+    "zh": "spider_web",
+    "en": "spider_web"
+  },
+  {
+    "zh": "spindle",
+    "en": "spindle"
+  },
+  {
+    "zh": "sports_car",
+    "en": "sports_car"
+  },
+  {
+    "zh": "spotlight",
+    "en": "spotlight"
+  },
+  {
+    "zh": "stage",
+    "en": "stage"
+  },
+  {
+    "zh": "T恤",
+    "en": "steam_locomotive"
+  },
+  {
+    "zh": "steel_arch_bridge",
+    "en": "steel_arch_bridge"
+  },
+  {
+    "zh": "steel_drum",
+    "en": "steel_drum"
+  },
+  {
+    "zh": "stethoscope",
+    "en": "stethoscope"
+  },
+  {
+    "zh": "牛仔裤",
+    "en": "stole"
+  },
+  {
+    "zh": "西装",
+    "en": "stone_wall"
+  },
+  {
+    "zh": "西装",
+    "en": "stopwatch"
+  },
+  {
+    "zh": "西装",
+    "en": "stove"
+  },
+  {
+    "zh": "领带",
+    "en": "strainer"
+  },
+  {
+    "zh": "领带",
+    "en": "streetcar"
+  },
+  {
+    "zh": "领带",
+    "en": "stretcher"
+  },
+  {
+    "zh": "鞋子",
+    "en": "studio_couch"
+  },
+  {
+    "zh": "鞋子",
+    "en": "stupa"
+  },
+  {
+    "zh": "鞋子",
+    "en": "submarine"
+  },
+  {
+    "zh": "鞋子",
+    "en": "suit"
+  },
+  {
+    "zh": "鞋子",
+    "en": "sundial"
+  },
+  {
+    "zh": "鞋子",
+    "en": "sunglass"
+  },
+  {
+    "zh": "鞋子",
+    "en": "sunglasses"
+  },
+  {
+    "zh": "鞋子",
+    "en": "sunscreen"
+  },
+  {
+    "zh": "鞋子",
+    "en": "suspension_bridge"
+  },
+  {
+    "zh": "鞋子",
+    "en": "swab"
+  },
+  {
+    "zh": "鞋子",
+    "en": "sweatshirt"
+  },
+  {
+    "zh": "鞋子",
+    "en": "swimming_trunks"
+  },
+  {
+    "zh": "鞋子",
+    "en": "swing"
+  },
+  {
+    "zh": "鞋子",
+    "en": "switch"
+  },
+  {
+    "zh": "鞋子",
+    "en": "syringe"
+  },
+  {
+    "zh": "鞋子",
+    "en": "table_lamp"
+  },
+  {
+    "zh": "鞋子",
+    "en": "tank"
+  },
+  {
+    "zh": "鞋子",
+    "en": "tape_player"
+  },
+  {
+    "zh": "鞋子",
+    "en": "teapot"
+  },
+  {
+    "zh": "鞋子",
+    "en": "teddy"
+  },
+  {
+    "zh": "鞋子",
+    "en": "television"
+  },
+  {
+    "zh": "鞋子",
+    "en": "tennis_ball"
+  },
+  {
+    "zh": "鞋子",
+    "en": "thatch"
+  },
+  {
+    "zh": "鞋子",
+    "en": "theater_curtain"
+  },
+  {
+    "zh": "鞋子",
+    "en": "thimble"
+  },
+  {
+    "zh": "鞋子",
+    "en": "thresher"
+  },
+  {
+    "zh": "鞋子",
+    "en": "throne"
+  },
+  {
+    "zh": "鞋子",
+    "en": "tile_roof"
+  },
+  {
+    "zh": "鞋子",
+    "en": "toaster"
+  },
+  {
+    "zh": "鞋子",
+    "en": "tobacco_shop"
+  },
+  {
+    "zh": "鞋子",
+    "en": "toilet_seat"
+  },
+  {
+    "zh": "鞋子",
+    "en": "torch"
+  },
+  {
+    "zh": "鞋子",
+    "en": "totem_pole"
+  },
+  {
+    "zh": "鞋子",
+    "en": "tow_truck"
+  },
+  {
+    "zh": "鞋子",
+    "en": "toyshop"
+  },
+  {
+    "zh": "鞋子",
+    "en": "tractor"
+  },
+  {
+    "zh": "鞋子",
+    "en": "trailer_truck"
+  },
+  {
+    "zh": "鞋子",
+    "en": "tray"
+  },
+  {
+    "zh": "鞋子",
+    "en": "trench_coat"
+  },
+  {
+    "zh": "鞋子",
+    "en": "tricycle"
+  },
+  {
+    "zh": "鞋子",
+    "en": "trimaran"
+  },
+  {
+    "zh": "鞋子",
+    "en": "tripod"
+  },
+  {
+    "zh": "鞋子",
+    "en": "triumphal_arch"
+  },
+  {
+    "zh": "鞋子",
+    "en": "trolleybus"
+  },
+  {
+    "zh": "家具",
+    "en": "trombone"
+  },
+  {
+    "zh": "家具",
+    "en": "tub"
+  },
+  {
+    "zh": "家具",
+    "en": "turnstile"
+  },
+  {
+    "zh": "家具",
+    "en": "typewriter_keyboard"
+  },
+  {
+    "zh": "家具",
+    "en": "umbrella"
+  },
+  {
+    "zh": "家具",
+    "en": "unicycle"
+  },
+  {
+    "zh": "家具",
+    "en": "upright"
+  },
+  {
+    "zh": "家具",
+    "en": "vacuum"
+  },
+  {
+    "zh": "家具",
+    "en": "vase"
+  },
+  {
+    "zh": "家具",
+    "en": "vault"
+  },
+  {
+    "zh": "家具",
+    "en": "velvet"
+  },
+  {
+    "zh": "家具",
+    "en": "vending_machine"
+  },
+  {
+    "zh": "家具",
+    "en": "vestment"
+  },
+  {
+    "zh": "家具",
+    "en": "viaduct"
+  },
+  {
+    "zh": "家具",
+    "en": "violin"
+  },
+  {
+    "zh": "家具",
+    "en": "volleyball"
+  },
+  {
+    "zh": "家具",
+    "en": "waffle_iron"
+  },
+  {
+    "zh": "家具",
+    "en": "wall_clock"
+  },
+  {
+    "zh": "家具",
+    "en": "wallet"
+  },
+  {
+    "zh": "家具",
+    "en": "wardrobe"
+  },
+  {
+    "zh": "家具",
+    "en": "warplane"
+  },
+  {
+    "zh": "家具",
+    "en": "washbasin"
+  },
+  {
+    "zh": "家具",
+    "en": "washer"
+  },
+  {
+    "zh": "家具",
+    "en": "water_bottle"
+  },
+  {
+    "zh": "家具",
+    "en": "water_jug"
+  },
+  {
+    "zh": "家具",
+    "en": "water_tower"
+  },
+  {
+    "zh": "家具",
+    "en": "whiskey_jug"
+  },
+  {
+    "zh": "家具",
+    "en": "whistle"
+  },
+  {
+    "zh": "家具",
+    "en": "wig"
+  },
+  {
+    "zh": "家具",
+    "en": "window_screen"
+  },
+  {
+    "zh": "家具",
+    "en": "window_shade"
+  },
+  {
+    "zh": "家具",
+    "en": "Windsor_tie"
+  },
+  {
+    "zh": "家具",
+    "en": "wine_bottle"
+  },
+  {
+    "zh": "家具",
+    "en": "wing"
+  },
+  {
+    "zh": "家具",
+    "en": "wok"
+  },
+  {
+    "zh": "家具",
+    "en": "wooden_spoon"
+  },
+  {
+    "zh": "家具",
+    "en": "wool"
+  },
+  {
+    "zh": "家具",
+    "en": "worm_fence"
+  },
+  {
+    "zh": "家具",
+    "en": "wreck"
+  },
+  {
+    "zh": "家具",
+    "en": "yawl"
+  },
+  {
+    "zh": "家具",
+    "en": "yurt"
+  },
+  {
+    "zh": "家具",
+    "en": "web_site"
+  },
+  {
+    "zh": "家具",
+    "en": "comic_book"
+  },
+  {
+    "zh": "家具",
+    "en": "crossword_puzzle"
+  },
+  {
+    "zh": "家具",
+    "en": "street_sign"
+  },
+  {
+    "zh": "家具",
+    "en": "traffic_light"
+  },
+  {
+    "zh": "家具",
+    "en": "book_jacket"
+  },
+  {
+    "zh": "家具",
+    "en": "menu"
+  },
+  {
+    "zh": "家具",
+    "en": "plate"
+  },
+  {
+    "zh": "家具",
+    "en": "guacamole"
+  },
+  {
+    "zh": "家具",
+    "en": "consomme"
+  },
+  {
+    "zh": "家具",
+    "en": "hot_pot"
+  },
+  {
+    "zh": "家具",
+    "en": "trifle"
+  },
+  {
+    "zh": "家具",
+    "en": "ice_cream"
+  },
+  {
+    "zh": "家具",
+    "en": "ice_lolly"
+  },
+  {
+    "zh": "家具",
+    "en": "French_loaf"
+  },
+  {
+    "zh": "家具",
+    "en": "bagel"
+  },
+  {
+    "zh": "家具",
+    "en": "pretzel"
+  },
+  {
+    "zh": "家具",
+    "en": "cheeseburger"
+  },
+  {
+    "zh": "家具",
+    "en": "hotdog"
+  },
+  {
+    "zh": "家具",
+    "en": "mashed_potato"
+  },
+  {
+    "zh": "家具",
+    "en": "head_cabbage"
+  },
+  {
+    "zh": "家具",
+    "en": "broccoli"
+  },
+  {
+    "zh": "家具",
+    "en": "cauliflower"
+  },
+  {
+    "zh": "家具",
+    "en": "zucchini"
+  },
+  {
+    "zh": "家具",
+    "en": "spaghetti_squash"
+  },
+  {
+    "zh": "家具",
+    "en": "acorn_squash"
+  },
+  {
+    "zh": "家具",
+    "en": "butternut_squash"
+  },
+  {
+    "zh": "电器",
+    "en": "cucumber"
+  },
+  {
+    "zh": "电器",
+    "en": "artichoke"
+  },
+  {
+    "zh": "电器",
+    "en": "bell_pepper"
+  },
+  {
+    "zh": "电器",
+    "en": "cardoon"
+  },
+  {
+    "zh": "电器",
+    "en": "mushroom"
+  },
+  {
+    "zh": "电器",
+    "en": "Granny_Smith"
+  },
+  {
+    "zh": "电器",
+    "en": "strawberry"
+  },
+  {
+    "zh": "电器",
+    "en": "orange"
+  },
+  {
+    "zh": "电器",
+    "en": "lemon"
+  },
+  {
+    "zh": "电器",
+    "en": "fig"
+  },
+  {
+    "zh": "电器",
+    "en": "pineapple"
+  },
+  {
+    "zh": "电器",
+    "en": "banana"
+  },
+  {
+    "zh": "电器",
+    "en": "jackfruit"
+  },
+  {
+    "zh": "电器",
+    "en": "custard_apple"
+  },
+  {
+    "zh": "电器",
+    "en": "pomegranate"
+  },
+  {
+    "zh": "电器",
+    "en": "hay"
+  },
+  {
+    "zh": "电器",
+    "en": "carbonara"
+  },
+  {
+    "zh": "食物",
+    "en": "chocolate_sauce"
+  },
+  {
+    "zh": "食物",
+    "en": "dough"
+  },
+  {
+    "zh": "食物",
+    "en": "meat_loaf"
+  },
+  {
+    "zh": "食物",
+    "en": "pizza"
+  },
+  {
+    "zh": "食物",
+    "en": "potpie"
+  },
+  {
+    "zh": "食物",
+    "en": "burrito"
+  },
+  {
+    "zh": "食物",
+    "en": "red_wine"
+  },
+  {
+    "zh": "食物",
+    "en": "espresso"
+  },
+  {
+    "zh": "食物",
+    "en": "cup"
+  },
+  {
+    "zh": "食物",
+    "en": "eggnog"
+  },
+  {
+    "zh": "食物",
+    "en": "alp"
+  },
+  {
+    "zh": "食物",
+    "en": "bubble"
+  },
+  {
+    "zh": "食物",
+    "en": "cliff"
+  },
+  {
+    "zh": "食物",
+    "en": "coral_reef"
+  },
+  {
+    "zh": "食物",
+    "en": "geyser"
+  },
+  {
+    "zh": "食物",
+    "en": "lakeside"
+  },
+  {
+    "zh": "食物",
+    "en": "promontory"
+  },
+  {
+    "zh": "食物",
+    "en": "sandbar"
+  },
+  {
+    "zh": "食物",
+    "en": "seashore"
+  },
+  {
+    "zh": "食物",
+    "en": "valley"
+  },
+  {
+    "zh": "食物",
+    "en": "volcano"
+  },
+  {
+    "zh": "食物",
+    "en": "ballplayer"
+  },
+  {
+    "zh": "食物",
+    "en": "groom"
+  },
+  {
+    "zh": "食物",
+    "en": "scuba_diver"
+  },
+  {
+    "zh": "食物",
+    "en": "rapeseed"
+  },
+  {
+    "zh": "食物",
+    "en": "daisy"
+  },
+  {
+    "zh": "食物",
+    "en": "yellow_lady's_slipper"
+  },
+  {
+    "zh": "食物",
+    "en": "corn"
+  },
+  {
+    "zh": "食物",
+    "en": "acorn"
+  },
+  {
+    "zh": "食物",
+    "en": "hip"
+  },
+  {
+    "zh": "食物",
+    "en": "buckeye"
+  },
+  {
+    "zh": "食物",
+    "en": "coral_fungus"
+  },
+  {
+    "zh": "食物",
+    "en": "agaric"
+  },
+  {
+    "zh": "食物",
+    "en": "gyromitra"
+  },
+  {
+    "zh": "食物",
+    "en": "stinkhorn"
+  },
+  {
+    "zh": "食物",
+    "en": "earthstar"
+  },
+  {
+    "zh": "食物",
+    "en": "hen-of-the-woods"
+  },
+  {
+    "zh": "食物",
+    "en": "bolete"
+  },
+  {
+    "zh": "食物",
+    "en": "ear"
+  },
+  {
+    "zh": "食物",
+    "en": "toilet_tissue"
+  }
+]

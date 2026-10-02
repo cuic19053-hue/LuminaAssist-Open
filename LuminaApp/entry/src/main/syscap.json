@@ -1,0 +1,29 @@
+{
+  "devices": {
+    "general": ["phone"],
+    "production": {
+      "phone": {
+        "addedSyscaps": [
+          "SystemCapability.AI.MindSporeLite"
+        ],
+        "removedSyscaps": [
+          "SystemCapability.Security.DeviceAuth",
+          "SystemCapability.XTS.DeviceAttest",
+          "SystemCapability.Test.PerfTest",
+          "SystemCapability.ArkUi.Graphics3D",
+          "SystemCapability.Graphic.Vulkan",
+          "SystemCapability.Multimedia.Media.AVScreenCapture",
+          "SystemCapability.Multimedia.Audio.Spatialization",
+          "SystemCapability.Multimedia.AudioHaptic.Core",
+          "SystemCapability.ResourceSchedule.BackgroundProcessManager",
+          "SystemCapability.Communication.FusionConnectivity.Core",
+          "SystemCapability.DistributedFileService.CloudSyncManager",
+          "SystemCapability.DistributedFileService.CloudSync.Core",
+          "SystemCapability.DistributedDataManager.CloudSync.Config",
+          "SystemCapability.DistributedDataManager.CloudSync.Client",
+          "SystemCapability.DistributedDataManager.CloudSync.Server"
+        ]
+      }
+    }
+  }
+}

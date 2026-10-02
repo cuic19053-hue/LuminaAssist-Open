@@ -1,0 +1,11 @@
+{
+  "modelVersion": "6.0.0",
+  "name": "lumina_assist",
+  "version": "1.0.0",
+  "description": "光语助手 LuminaAssist - 面向视障与高龄用户的多模态智能助理（OpenHarmony 5.0）",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.21"
+  },
+  "scripts": {}
+}

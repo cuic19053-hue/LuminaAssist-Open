@@ -1,0 +1,3 @@
+# 光语助手 入口模块混淆规则（占位）
+# 启用混淆时按需配置：https://gitee.com/openharmony/arkcompiler_ets_frontend/blob/master/arkguard/README.md
+-disable-obfuscation
